@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Cleaning & Organizing Help | Grays Country Services for Blue Country</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    body {
+      font-family: Georgia, "Times New Roman", serif;
+      background: #f2f0eb;
+      color: #2b2b2b;
+      margin: 0;
+      padding: 2rem;
+    }
+
+    h1, h2, h3 {
+      color: #3a3a3a;
+    }
+
+    .container {
+      max-width: 1000px;
+      margin: auto;
+    }
+
+    .section {
+      margin-top: 3rem;
+    }
+
+    .section h2 {
+      border-bottom: 2px solid #999;
+      padding-bottom: 0.5rem;
+    }
+
+    ul {
+      line-height: 1.6;
+    }
+
+    .note {
+      font-style: italic;
+      margin-top: 1rem;
+    }
+
+    .box {
+      background: #eef3fb;
+      padding: 1.5rem;
+      border-radius: 8px;
+      margin-top: 1.5rem;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    }
+
+    a {
+      color: #2b2b2b;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+
+    <h1>Cleaning & Organizing Help</h1>
+
+    <p>
+      Supportive, hands-on help for people who want to make their living
+      spaces more functional, manageable, and livable.
+    </p>
+
+    <div class="section">
+      <h2>How This Service Works</h2>
+      <div class="box">
+        <p>
+          Cleaning and organizing help is a <strong>collaborative process</strong>.
+        </p>
+        <p>
+          This service is not about someone coming in and taking over.
+          It works best when the client and worker actively work together
+          to sort, clean, and reset spaces.
+        </p>
+        <p>
+          Progress depends on participation from both sides, with the goal
+          of creating systems that are easier to maintain moving forward.
+        </p>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Cleaning Support Includes</h2>
+      <ul>
+        <li>Laundry assistance</li>
+        <li>Dishes and kitchen cleanup</li>
+        <li>Bathroom cleaning</li>
+        <li>Cabinet and drawer organization</li>
+        <li>Cleaning of already established and accessible areas</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Organizing Support Includes</h2>
+      <ul>
+        <li>Room-by-room organization</li>
+        <li>Establishing what qualifies as garbage first</li>
+        <li>Sorting items into keep vs. remove categories</li>
+        <li>Creating simple, functional organization systems</li>
+        <li>Support for reducing clutter and accumulated items</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Hoarding & Overwhelmed Spaces</h2>
+      <div class="box">
+        <p>
+          This service can assist with the early stages of hoarding
+          or overwhelming clutter by helping establish safe, manageable
+          cleanup practices.
+        </p>
+        <p>
+          This is a gradual, respectful process and is approached
+          without judgment.
+        </p>
+        <p>
+          Severe hoarding situations, biohazards, or unsafe environments
+          are not included under this service.
+        </p>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>What This Service Does Not Include</h2>
+      <ul>
+        <li>Full maid or housekeeping services</li>
+        <li>Biohazard or extreme hoarding cleanup</li>
+        <li>Disposal of items without client consent</li>
+        <li>Forced removal of personal belongings</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Typical Pricing</h2>
+      <p>
+        Cleaning and organizing help is priced per job,
+        starting at <strong>$100</strong>.
+      </p>
+      <p>
+        Pricing is based on the size of the space, level of clutter,
+        and scope of work agreed upon.
+      </p>
+      <p class="note">
+        Free quotes are always provided.
+      </p>
+    </div>
+
+    <div class="section">
+      <h2>Important Notes</h2>
+      <ul>
+        <li>This service works best as a shared effort</li>
+        <li>Pacing and breaks are discussed as needed</li>
+        <li>All decisions regarding belongings remain with the client</li>
+        <li>Scope and goals are confirmed before work begins</li>
+      </ul>
+    </div>
+
+    <p class="note">
+      Respect, communication, and collaboration are central to this service.
+    </p>
+
+    <p>
+      <a href="index.html">← Back to services</a>
+    </p>
+
+  </div>
+</body>
+</html>
